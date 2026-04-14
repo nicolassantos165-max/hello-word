@@ -2,5 +2,5 @@
 Grupo 3
 Kaue
 Nicolas
-Gabriel
+gabriel
 Luis
